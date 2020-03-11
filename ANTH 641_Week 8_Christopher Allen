@@ -1,2 +1,6 @@
 The major aspect that I notice is that all the ranges skew to the rigt for the various variables. 
 For my Dataset I looked at Fibulae. It was also skewed to the right. 
+	Pearson's Chi-squared test
+
+data:  Glasstab
+X-squared = 33.449, df = 32, p-value = 0.3968
