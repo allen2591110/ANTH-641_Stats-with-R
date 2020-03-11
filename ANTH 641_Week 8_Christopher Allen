@@ -4,3 +4,7 @@ For my Dataset I looked at Fibulae. It was also skewed to the right.
 
 data:  Glasstab
 X-squared = 33.449, df = 32, p-value = 0.3968
+Pearson's Chi-squared test with simulated p-value (based on 2000 replicates)
+
+data:  Glasstab
+X-squared = 33.449, df = NA, p-value = 0.2959
